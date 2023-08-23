@@ -1,0 +1,95 @@
+/* Name section */
+.container{
+  height: 140vh;
+  margin-left: 23%;
+  margin-right: 23%;
+  background-color: rgb(247, 246, 246);
+}
+
+#resume-section{
+  text-align: center;
+}
+
+.name-section{
+  display: flex;
+  font-size: large;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+.name-section img{
+  /* display: block; */
+  height: 100px;
+  width: 90px;
+  margin-left: 20%;
+}
+
+/* .carrier-objective section */
+
+.carrier-objective{
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 15px;
+}
+
+.carrier-objective h1{
+  background-color: rgb(221, 243, 243);
+}
+
+/* qualification section */
+
+.qualification{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.qualification h1{
+  background-color: rgb(221, 243, 243);
+}
+
+/* technical-skill section */
+
+.technical-skill{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.technical-skill h1{
+  background-color: rgb(221, 243, 243);
+}
+
+
+/* personal-details */
+
+.personal-details{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.personal-details h1{
+  background-color: rgb(221, 243, 243);
+}
+
+/* Sigunature Section */
+
+.sig{
+  display: flex;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.sig p {
+  display: flex;
+  margin-left: 20%;
+  padding: 40px ;
+}
+
+#nam{
+  display: flex;
+  /* margin-left: 20px; */
+  padding: 50px;
+}
+
+.sign p{
+  display: flex ;
+}
